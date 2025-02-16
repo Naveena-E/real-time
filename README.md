@@ -1,0 +1,11 @@
+<b>Name</b>: Naveena E</br>
+<b>Company:</b> CODTECH IT SOLUTIONS</br>
+<b>ID:</b> :10012025</br>
+<b>Domain:</b> MERN Stack Web Development</br>
+<b>Duration:</b> January 20th, 2025 to Febuary 20th, 2025.</br>
+<b>Mentor:</b> NEELA SANTHOSH</br>
+
+<b>Project: Real-Time Chat Apllication</b> <br/><br/>
+<h3></h3>
+<p> </p>
+</br>
